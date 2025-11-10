@@ -109,16 +109,5 @@ exam-prep-assistant/
 
 -----
 
-## 🤝 Contributing
 
-Contributions are welcome\! If you find a bug or want to suggest a new feature (like the Spaced Repetition System), please open an issue or submit a pull request.
 
------
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
------
-
-*Developed by [Your Name/GitHub Handle]*
